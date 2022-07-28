@@ -5,7 +5,7 @@
 ## Frontend 💻
 
  - *HTML, CSS, SCSS, Адаптивная и кроссбраузерная верстка, БЭМ*
- - *JavaScript, React + Router-Dom, Redux, Redux-Thunk, Redux-Toolkit, RTK-query, TypeScript, NPM, Node.js, Git, GitHub*
+ - *JavaScript, React + Router-Dom, Redux, Redux-Thunk, Redux-Toolkit, RTK-query, React Query, TypeScript, NPM, Node.js, Git, GitHub*
 
 ## Backend ⚙
 
