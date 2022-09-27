@@ -4,5 +4,5 @@
 
 ## Frontend 💻
 
- - *HTML, CSS, SCSS, Адаптивная и кроссбраузерная верстка, БЭМ*
- - *JavaScript, React + Router-Dom, Redux, Redux-Thunk, Redux-Toolkit, RTK-query, React Query, TypeScript, Jest, React-Testing-Library, NPM, Node.js, Git, GitHub*
+ - *HTML5, CSS3, Препроцессор SCSS, Адаптивная и кроссбраузерная верстка*
+ - *JavaScript, React + Redux-Toolkit, TypeScript, Jest, React-Testing-Library, Node.js, Git*
