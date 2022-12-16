@@ -7,4 +7,4 @@
 *Ключевой стек*
 
  - *HTML5, CSS3, Препроцессор SCSS, Адаптивная и кроссбраузерная верстка*
- - *JavaScript, React + Redux-Toolkit, TypeScript, Jest, React-Testing-Library, Node.js, Git*
+ - *React, JavaScript/TypeScript, Redux-Toolkit, Jest, React-Testing-Library, Git*
