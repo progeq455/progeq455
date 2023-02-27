@@ -2,8 +2,6 @@
 
  👨‍💻 Меня зовут Амир,  я занимаюсь *Frontend разработкой* **веб-приложений** на React
 
-## Frontend 
+## Frontend-стек
 
-*Ключевой стек*
-
- - *React, JavaScript/TypeScript, Redux-Toolkit, SCSS*
+ - *React/Next-JS, JavaScript/TypeScript, Redux (Toolkit), Sass (Scss-modules)*
