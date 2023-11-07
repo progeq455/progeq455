@@ -1,7 +1,7 @@
 # 🖐 Приветствую!
 
- 👨‍💻 Меня зовут Амир,  я занимаюсь *Frontend разработкой* **веб-приложений** на Next.js (react)
+ 👨‍💻 Меня зовут Амир,  я занимаюсь *Frontend разработкой* на Next.js (React).
 
 ## Frontend-стек
 
- - *React/Next-JS, JavaScript/TypeScript, Redux (Toolkit), Sass (Scss-modules)*
+ - *React/Next.js, JavaScript, TypeScript, Redux (Toolkit, Thunk), Sass (Scss-modules)*
